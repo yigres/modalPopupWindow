@@ -1,2 +1,1 @@
-A modal window (Popup) on REACT JS.
-Reused popup window on REACT JS
+A modal window (reused popup) on REACT JS.
